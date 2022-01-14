@@ -4,43 +4,43 @@
         "id": 1,
         "name": "Pepperoni",
         "ingredients": "Tomato Sauce, Pepperoni, Extra Mozzarella",
-        "price":15.5
+        "price":15.5,
       }, 
       {
         "id": 2,
         "name": "Mozzarella",
         "ingredients": "Tomato Sauce, Mozzarella, Extra Mozzarella",
-        "price":12.0
+        "price":12.0,
       }, 
       {
         "id": 3,
         "name": "Chicken",
         "ingredients": "Tomato Sauce, Mozzarella, Chicken, Pepperoni, Tomatoes",
-        "price":13.8
+        "price":13.8,
       },
       {
         "id": 4,
         "name": "New York",
         "ingredients": "Tomato Sauce, Mozzarella, Cheddar, Bacon, Mushrooms",
-        "price":15.8
+        "price":15.8,
       }, 
       {
         "id": 5,
         "name": "Garden",
         "ingredients": "Tomato Sauce, Mozzarella, Onions, Tomatoes, Mushrooms, Peppers",
-        "price":16.2
+        "price":16.2,
       }, 
       {
         "id": 6,
         "name": "Hawaii",
         "ingredients": "Tomato Sauce, Mozzarella, Ham, Pineapple",
-        "price":14.3
+        "price":14.3,
       }, 
       {
         "id": 7,
         "name": "Pepperoni Hot",
         "ingredients": "Tomato Sauce, Mozzarella, Pepperoni, Jalapeno, Onions",
-        "price":14.9
+        "price":14.9,
       }, 
 
     ]
