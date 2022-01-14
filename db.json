@@ -1,5 +1,5 @@
 
-"menu": [
+"menu": {
       {
         "id": 1,
         "name": "Pepperoni",
@@ -43,5 +43,5 @@
         "price":14.9,
       }, 
 
-    ]
+}
   
