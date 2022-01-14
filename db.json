@@ -1,6 +1,4 @@
-
-[
-      
+"menu": [
       {
         "id": 1,
         "name": "Pepperoni",
@@ -42,7 +40,7 @@
         "name": "Pepperoni Hot",
         "ingredients": "Tomato Sauce, Mozzarella, Pepperoni, Jalapeno, Onions",
         "price":14.9
-      } 
-   
-]
-  
+      }, 
+
+    ]
+  }
